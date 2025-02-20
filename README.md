@@ -39,7 +39,7 @@ This repository contains a collection of C++ programming exercises aimed at inte
 ## How to Use
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/Cpp-Intermediate-Drill.git
+   git clone https://github.com/regitabish/cpp_drill.git
    ```
 2. Navigate to the repository directory:
    ```sh
